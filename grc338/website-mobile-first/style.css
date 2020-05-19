@@ -1,0 +1,52 @@
+/*CSS document*/
+
+img {
+    width: 100%;
+}
+
+h1 {
+    width: 20em;
+    font-size: 1em;
+    float: left;
+}
+
+nav {
+    float: right;
+    padding-top: 3em;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 2em;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: lavender;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 3em
+}
+
+h3 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 2em;
+}
+
+
+   
